@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+<key>loading</key>
+<string>飞机正在加油，等一会儿...</string>
+
+<key>tollgate1</key>
+<string>第一关,空袭~来战！</string>
+<key>tollgate2</key>
+<string>第二关,	幽怨的峡谷</string>
+<key>tollgate3</key>
+<string>第三关,翻越最高峰</string>
+<key>tollgate4</key>
+<string>第四关,宇宙开拓之路</string>
+<key>tollgate5</key>
+<string>第五关,某个城市</string>
+<key>tollgate6</key>
+<string>第六关,已到达南海海域！！！</string>
+<key>tollgate7</key>
+<string>第七关,富士山附近再现敌情</string>
+<key>tollgate8</key>
+<string>第八关,当心被吸进去</string>
+<key>tollgate9</key>
+<string>第九关,飞得有点高了</string>
+<key>tollgate10</key>
+<string>第十关,守卫时空隧道</string>
+<key>tollgate11</key>
+<string>第十一关,虚迷幻境</string>
+<key>tollgate12</key>
+<string>第十二关,回归的前传</string>
+
+<key>addfire</key>
+<string>火力增强</string>
+<key>addfire1</key>
+<string>额外奖励 +100</string>
+<key>addalive</key>
+<string>增加生命值</string>
+<key>addbomb</key>
+<string>全都去死吧</string>
+<key>addbomb1</key>
+<string>离我近的死翘翘啦</string>
+<key>addbomb2</key>
+<string>挡我者死</string>
+<key>addbomb3</key>
+<string>定时炸弹来也,3秒后爆炸</string>
+<key>inTime</key>
+<string>10秒内没有新的敌机出现</string>
+<key>addcall</key>
+<string>呼叫支援</string>
+<key>addcall1</key>
+<string>迫击炮支援 半个基数</string>
+<key>addcall2</key>
+<string>榴弹炮支援 半个基数</string>
+<key>addcall3</key>
+<string>榴弹炮支援 一个基数</string>
+
+<key>hidePlane</key>
+<string>飞机隐藏10秒</string>
+
+<key>score</key>
+<string>得分:</string>
+<key>alive</key>
+<string>生命:</string>
+<key>fire</key>
+<string>火力:</string>
+
+<key>Zere</key>
+<string>您已超神</string>
+<key>One</key>
+<string>一级上将</string>
+<key>Two</key>
+<string>上将</string>
+<key>Three</key>
+<string>中将</string>
+<key>Four</key>
+<string>少将</string>
+<key>Five</key>
+<string>上校</string>
+<key>Six</key>
+<string>中校</string>
+<key>Seven</key>
+<string>少校</string>
+<key>Eight</key>
+<string>上尉</string>
+<key>Nine</key>
+<string>中尉</string>
+<key>Ten</key>
+<string>少尉</string>
+<key>Eleven</key>
+<string>列兵</string>
+<key>rankNum</key>
+<string>排名</string>
+<key>rankScore</key>
+<string>分数</string>
+<key>AboutMe1</key>
+<string>策划: 韩留燕</string>
+<key>AboutMe2</key>
+<string>程序: 杜星飞</string>
+<key>AboutMe3</key>
+<string>美工: 韩留燕</string>
+<key>QQ</key>
+<string>联系QQ: 995526703</string>
+<key>Others</key>
+<string>    感谢您对这款游戏的关注，如果您在玩儿游戏过程中遇到什么问题，或是有什么改进意见，请及时与我联系。</string>
+</dict>
